@@ -11,6 +11,7 @@ List shared papers in our group
 
 | Date      | Speaker | Paper                                                        | Slide                                                       | Keywords |
 | --------- | :-----: | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 2021.10.21 | 刘海  | [《Prioritization of disease genes from GWAS using ensemble-based positive-unlabeled learning》(*Nature  European Journal of Human Genetics. 2021*)](https://www.nature.com/articles/s41431-021-00930-w)  |[PULearning.ppt](https://github.com/LH-007/journalClub/blob/main/slides/PULearning.pptx)   |PU-learning|
 | 2021.7.6 | 张超  | [《Deep learning enables accurate clustering with batch effect removal in single-cell RNA-seq analysis》(*Nature communication. 2020*)](https://www.nature.com/articles/s41467-020-15851-3)  |[DESC.ppt](https://github.com/genemine/journalClub/blob/main/slides/DESC.pptx)   |单细胞聚类|
 | 2021.6.25 | 刘祎玮  | [《Pathway-based subnetworks enable cross-disease biomarker discovery》(*Nature communication. 2018*)](https://www.nature.com/articles/s41467-018-07021-3)  |[SIMMS.ppt](https://github.com/genemine/journalClub/blob/main/slides/SIMMS.pptx)   |Pathway subnetwork及生存分析|
 | 2021.6.23 | 伍振鹏  | [《Prevalent intron retention fine-tunes gene expression and contributes to cellular senescence》(*Aging Cell. 2020*)](https://onlinelibrary.wiley.com/doi/full/10.1111/acel.13276)  |[IR_senescence.ppt](https://github.com/genemine/journalClub/blob/main/slides/IR_senescence.pptx)   |内含子保留|
